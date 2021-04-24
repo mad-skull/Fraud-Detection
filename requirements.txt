@@ -67,7 +67,7 @@ pycurl==7.43.0
 pyglet==1.1.4
 Pygments==2.7.4
 pygobject==3.22.0
-pyOpenSSL==16.2.0
+pyOpenSSL==17.5.0
 pyparsing==2.1.10
 pytest==3.0.6
 python-dateutil==2.5.3
